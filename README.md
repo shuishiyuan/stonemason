@@ -15,3 +15,7 @@ The core logic of Verity and Order.
 
 - #### [Remote Simultaneous Interpretation Platform | Interactio Bridges](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiBorr8wNzxAhVSdGAKHfM_BTUYABAAGgJ0bQ&ae=2&ohost=www.google.com&cid=CAESQeD2lNJxf79dsQ2_MC0nRa5_nVH5IjV1zD3OxkdTixYOXdPsTkRJ5TJDTQsEnh-hNPz1gA1bPQDtkT_xMHCbbVP4&sig=AOD64_2OrxpWTGtmqBXYtvjH_ZlyZX3pNA&q&adurl&ved=2ahUKEwjkjbP8wNzxAhWjyYsBHbv4B7gQ0Qx6BAgDEAE&dct=1)
 
+## Speech To Text
+
+#### [Top 8 Best Speech To Text Converters And Their Uses - AIRA](https://www.meetaira.ai/blogs/speech-to-text-converters/)
+
